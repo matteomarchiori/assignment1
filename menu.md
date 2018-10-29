@@ -8,5 +8,6 @@ capricciosa
 primi
 
 bucatini all'amatriciana
+spaghetti alla carbonara
 
 pizzeria Bella Napoli
